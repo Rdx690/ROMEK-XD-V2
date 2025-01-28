@@ -18,9 +18,5 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "916909950582",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "◄⏤͟͞➸⃝❥͜͡𝑆𝛩𝑈𝑅𝛥𝐽𝛪𝑇➸⃝⚡-SS",
 DESCRIPTION: process.env.DESCRIPTION || "*©
-Listening to: *◄⏤͟͞➸⃝❥͜͡𝑆𝛩𝑈𝑅𝛥𝐽𝛪𝑇➸⃝⚡*
-01:43 ━━━━●───── 03:50
-⇆ㅤ ㅤ◁ㅤ ❚❚ ㅤ▷ ㅤㅤ↻﻿
-               ılıılıılıılıılıılı
-ᴠᴏʟᴜᴍᴇ : ▮▮▮▮▮▮▮▮▮▮  *",
+Listening to: *◄⏤͟͞➸⃝❥͜͡𝑆𝛩𝑈𝑅𝛥𝐽𝛪𝑇➸⃝⚡-AI-BOT*",
 };
